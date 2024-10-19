@@ -12,5 +12,5 @@
 
 ![изображение](https://github.com/user-attachments/assets/1c67fc78-d952-4f34-a598-656e17159649)
 
-![изображение](https://github.com/user-attachments/assets/81a6b4b6-7c15-4930-b4a1-811819d576c0)
+vm-A имеет следующий IP-адрес: `192.168.101.212`
 
