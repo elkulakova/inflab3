@@ -8,3 +8,6 @@
  <img width="600px" src="1 net.png" alt="qr"/>
 </p>
 
+С помощью команды `ip a` проверяем IP-адрес, который был выдан виртуальной машине vm-A в сети:
+
+![изображение](https://github.com/user-attachments/assets/1c67fc78-d952-4f34-a598-656e17159649)
