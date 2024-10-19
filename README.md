@@ -43,7 +43,7 @@
 С помощью команды `ping` проверяем, что `vm-B` имеет доступ в Интернет:
 
 <p align="center">
- <img width="600px" src="6 internet access.png" alt="qr"/>
+ <img width="600px" src="6 internet access b.png" alt="qr"/>
 </p>
 
 Теперь проверяем сетевое взаимодействие между машинами с помощью команды `ping`:
